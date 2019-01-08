@@ -1,6 +1,8 @@
 # FlipGo
 
-![picture](https://github.com/lsummer/FlipGo/blob/raw/pic.png)
+![picture](https://github.com/lsummer/FlipGo/raw/master/pic.png)
+
+- [online address](http://icontinua.cn/minigame/index.html)
 
 #### Quick Start
 
