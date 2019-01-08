@@ -1,0 +1,35 @@
+{
+	"initial": [
+		"libs/modules/egret/egret.js",
+		"libs/modules/egret/egret.web.js",
+		"libs/modules/game/game.js",
+		"libs/modules/tween/tween.js",
+		"libs/modules/assetsmanager/assetsmanager.js",
+		"libs/modules/promise/promise.js",
+		"libs/modules/eui/eui.js"
+	],
+	"game": [
+		"bin-debug/Questionnaire/ProgressV2.js",
+		"bin-debug/LoadingUI.js",
+		"bin-debug/Platform.js",
+		"bin-debug/Block/Block.js",
+		"bin-debug/Block/BlockPool.js",
+		"bin-debug/lib/AwardVideo.js",
+		"bin-debug/lib/Banner.js",
+		"bin-debug/lib/SequenceRandom.js",
+		"bin-debug/lib/TimeDown.js",
+		"bin-debug/Questionnaire/Popup.js",
+		"bin-debug/Questionnaire/Progress.js",
+		"bin-debug/Main.js",
+		"bin-debug/Questionnaire/Questionnaire.js",
+		"bin-debug/Questionnaire/TransferScreen.js",
+		"bin-debug/Scene/BeginScene.js",
+		"bin-debug/Scene/EndScene.js",
+		"bin-debug/Scene/GameScene.js",
+		"bin-debug/Scene/PlayMethod.js",
+		"bin-debug/Scene/PreGameScene.js",
+		"bin-debug/Scene/QuesScreen.js",
+		"bin-debug/Scene/SceneMange.js",
+		"bin-debug/Scene/WelcomeScreen.js"
+	]
+}
